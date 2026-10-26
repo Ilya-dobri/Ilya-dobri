@@ -18,7 +18,7 @@
 <tr>
 <td width="50%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/Ilya-dobri/Ilya-dobri/main/assets/avatar.svg" alt="Ilya" width="100%">
+<img src="avatar.png" alt="Ilya" width="100%">
 
 </td>
 <td width="50%" valign="top">
