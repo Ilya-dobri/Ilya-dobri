@@ -1,16 +1,4 @@
-<div align="center">
 
-# Hey, I'm Ilya 👋
-
-### Full-Stack · Mobile · Desktop Developer
-
-*Building useful apps, exploring new technologies, and learning by shipping projects.*
-
-<a href="https://github.com/Ilya-dobri"><img alt="Followers" src="https://img.shields.io/github/followers/Ilya-dobri?style=for-the-badge&logo=github&color=181717&labelColor=0d1117"></a>
-<a href="https://linktr.ee/IlyaGrigorev"><img alt="Linktree" src="https://img.shields.io/badge/Contacts-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"></a>
-<a href="mailto:ilyagrigorevakov@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-</div>
 
 <br>
 
