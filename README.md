@@ -18,7 +18,7 @@
 <tr>
 <td width="50%" valign="middle" align="center">
 
-<img src="avatar-big.png" alt="Ilya" width="100%">
+<img src="avatar-tall.png" alt="Ilya" width="100%">
 
 </td>
 <td width="50%" valign="top">
